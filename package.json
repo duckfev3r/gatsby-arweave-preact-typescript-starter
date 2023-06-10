@@ -15,7 +15,7 @@
   "dependencies": {
     "arweave": "^1.7.1",
     "bulma": "^0.9.0",
-    "gatsby": "^2.21.0",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-no-sourcemaps": "^2.2.0",
     "gatsby-plugin-preact": "^4.0.8",
     "gatsby-plugin-typescript": "^2.4.0",
